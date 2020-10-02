@@ -1,3 +1,3 @@
 1. Decide which business to order from.
 2. Decide which type of pizza to order. 
-3A. Choose delivery or carryout order. 
+3. Decide how many pizzas do you want. 
